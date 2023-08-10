@@ -13,5 +13,5 @@ This project & all it's License & CopyRight Claims belongs to **Vishwajeet Mishr
 
 ## Preview
 
-
+![preview](https://github.com/vishwajeetmishra4/Captcha-Generator/assets/135427511/5dc71d41-d831-40ba-b0c9-89b66c2fc76e)
 
